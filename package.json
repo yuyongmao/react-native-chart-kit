@@ -1,6 +1,6 @@
 {
-  "name": "react-native-chart-kit",
-  "version": "6.6.1",
+  "name": "@bigbug/react-native-chart-kit",
+  "version": "1.0.0",
   "devDependencies": {
     "@types/react": "^16.9.38",
     "@types/react-native": "^0.62.13",
@@ -60,5 +60,19 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuyongmao/react-native-chart-kit.git"
+  },
+  "keywords": [
+    "chart",
+    "chart-kit"
+  ],
+  "author": "Big Bug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuyongmao/react-native-chart-kit/issues"
+  },
+  "homepage": "https://github.com/yuyongmao/react-native-chart-kit#readme"
 }
