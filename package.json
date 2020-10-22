@@ -1,5 +1,5 @@
 {
-  "name": "@bigbug/react-native-chart-kit",
+  "name": "@yuyongmao/react-native-chart-kit",
   "version": "1.0.0",
   "devDependencies": {
     "@types/react": "^16.9.38",
